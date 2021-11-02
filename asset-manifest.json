@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Forum/static/css/main.afd7172b.chunk.css",
+    "main.js": "/ReactJS-Forum/static/js/main.32826f24.chunk.js",
+    "main.js.map": "/ReactJS-Forum/static/js/main.32826f24.chunk.js.map",
+    "runtime-main.js": "/ReactJS-Forum/static/js/runtime-main.256e6d78.js",
+    "runtime-main.js.map": "/ReactJS-Forum/static/js/runtime-main.256e6d78.js.map",
+    "static/js/2.b030fb04.chunk.js": "/ReactJS-Forum/static/js/2.b030fb04.chunk.js",
+    "static/js/2.b030fb04.chunk.js.map": "/ReactJS-Forum/static/js/2.b030fb04.chunk.js.map",
+    "index.html": "/ReactJS-Forum/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/ReactJS-Forum/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.b030fb04.chunk.js.LICENSE.txt": "/ReactJS-Forum/static/js/2.b030fb04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.256e6d78.js",
+    "static/js/2.b030fb04.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.32826f24.chunk.js"
+  ]
+}
